@@ -34,4 +34,4 @@ for iteration in range (40):
         #print("prediction: ", prediction)
 
     print("weights: ", weights)
-    print("Error: ", prediction)
+    print("Error: ", error)
