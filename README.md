@@ -1,3 +1,3 @@
-# neural_net1
+### neural_net1
 
-Test program of simple neural network
+Very basic test program for implementing neural network from the scratch.
